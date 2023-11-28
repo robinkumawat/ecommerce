@@ -1,0 +1,19 @@
+header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: rgb(81, 66, 66);
+    color: #fff;
+    padding: 4px;
+    justify-content: center;
+    height: 50px;
+}
+header a{
+    color: #fff;
+    text-decoration: none;
+}
+#loggername{
+    font-weight: 700;
+    color: rgb(86, 247, 86);
+}
